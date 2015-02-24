@@ -1,6 +1,5 @@
 LIBRARY IEDRIVER
 EXPORTS
-  ScreenshotWndProc @1
-  KeyboardHookProc @2
-  MouseHookProc @3
-  OverrideWndProc @4
+  KeyboardHookProc @1
+  MouseHookProc @2
+  OverrideWndProc @3
